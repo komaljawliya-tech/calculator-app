@@ -21,24 +21,26 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 ## 📂 Folder Structure
 
 
-calculator-app/
+Calculator-app/ 
+│── README.md 
+│── index.html 
+│── style.css 
+│── script.js 
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+└── images/ 
+ ├── calculator1.png 
+ └── calculator2.png
 
 
 ## 📸 Screenshots
 
 ### Home Screen
 
-![Home](./calculator-app/images/calculator2.png)
+![Home](./images/calculator2.png)
 
 ### Dark Mode
 
-![Dark Mode](./calculator-app/images/calculator1.png)
+![Dark Mode](./images/calculator1.png)
 
 
 
