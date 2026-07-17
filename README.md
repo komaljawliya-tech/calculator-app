@@ -1,6 +1,10 @@
-# 🧮 Modern Calculator
+# 🧮 Aurora Calculator
 
 A responsive calculator built using HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo
+
+🔗 https://komaljawliya-tech.github.io/calculator-app/
 
 ## 🚀 Features
 
