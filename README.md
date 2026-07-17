@@ -34,11 +34,11 @@ calculator-app/
 
 ### Home Screen
 
-![Home](./images/calculator1.pngimages/calculator2.png)
+![Home](./images/calculator2.png)
 
 ### Dark Mode
 
-![Dark Mode](./images/calculator1.pngimages/calculator1.png)
+![Dark Mode](./images/calculator1.png)
 
 
 
