@@ -29,9 +29,17 @@ calculator-app/
 └── README.md
 ```
 
-## 📸 Screenshot
 
-Add a screenshot after completing the project.
+## 📸 Screenshots
+
+### Home Screen
+
+![Home](./images/calculator1.pngimages/calculator2.png)
+
+### Dark Mode
+
+![Dark Mode](./images/calculator1.pngimages/calculator1.png)
+
 
 
 
